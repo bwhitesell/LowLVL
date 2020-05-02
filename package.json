@@ -7,7 +7,7 @@
     "readme": "https://raw.githubusercontent.com/bwhitesell/LowLVL/master/README.md",
     "icon": "/assets/python-logo.png",
     "repository": {
-        "url": "https://github.com/bwhitesell/LowLVL/",
+        "url": "https://github.com/bwhitesell/LowLVL/"
     },
     "engines": {
         "vscode": "^1.44.0"
