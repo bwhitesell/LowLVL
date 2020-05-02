@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "publisher": "ben-whitesell",
     "readme": "https://raw.githubusercontent.com/bwhitesell/LowLVL/master/README.md",
-    "icon": "/assets/python-logo.png",
+    "icon": "assets/python-logo.png",
     "repository": {
         "url": "https://github.com/bwhitesell/LowLVL/"
     },
