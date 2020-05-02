@@ -1,0 +1,21 @@
+{
+    "name": "lowlvl",
+    "displayName": "lowlvl",
+    "description": "A simple theme for simple folks",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "lowlvl",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lowlvl-color-theme.json"
+            }
+        ]
+    }
+}
