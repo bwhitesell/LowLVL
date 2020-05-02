@@ -1,8 +1,12 @@
 {
     "name": "lowlvl",
     "displayName": "lowlvl",
-    "description": "A simple theme for simple folks",
-    "version": "0.0.1",
+    "description": "A simple dark theme designed for python",
+    "version": "0.0.2",
+    "publisher": "ben-whitesell",
+    "readme": "https://raw.githubusercontent.com/bwhitesell/LowLVL/master/README.md",
+    "icon": "https://www.python.org/static/img/python-logo.png",
+    "repository": {"url": "https://github.com/bwhitesell/LowLVL/"},
     "engines": {
         "vscode": "^1.44.0"
     },
